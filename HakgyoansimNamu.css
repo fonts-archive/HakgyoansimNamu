@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Hakgyoansim Namu';
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimNamu/HakgyoansimNamu-Light.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimNamu/HakgyoansimNamu-Light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimNamu/HakgyoansimNamu-Light.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimNamu/HakgyoansimNamu-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Hakgyoansim Namu';
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimNamu/HakgyoansimNamu-Regular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimNamu/HakgyoansimNamu-Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimNamu/HakgyoansimNamu-Regular.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimNamu/HakgyoansimNamu-Regular.ttf') format('truetype');
+}
